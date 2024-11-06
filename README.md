@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+skulpt
+# Skulpt
 
 > Skulpt is an entirely in-browser implementation of Python.
 
