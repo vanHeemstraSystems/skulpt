@@ -1,7 +1,7 @@
 skulpt
 # Skulpt
 
-> Skulpt is an entirely in-browser implementation of Python.
+> [Skulpt](https://skulpt.org) is an entirely in-browser implementation of Python.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
