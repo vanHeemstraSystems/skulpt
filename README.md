@@ -1,7 +1,7 @@
 repository-name
 # Repository Name
 
-> Slugline
+> Skulpt is an entirely in-browser implementation of Python.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
