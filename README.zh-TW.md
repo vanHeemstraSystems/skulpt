@@ -2,13 +2,13 @@
 
 # 雕塑
 
-> Skulpt 是 Python 的完全瀏覽器內實作。
+> [雕塑](https://skulpt.org)是 Python 的完全瀏覽器內實作。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
-**執行摘要**
+**Executive Summary**
 
 文字
 
