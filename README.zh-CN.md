@@ -2,7 +2,7 @@
 
 # 存储库名称
 
-> 斯拉格莱恩
+> Skulpt 是 Python 的完全浏览器内实现。
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -10,7 +10,7 @@
 
 **执行摘要**
 
-文本
+Text
 
 ## 100 - 简介
 
@@ -22,7 +22,7 @@
 
 ## 300 - 构建我们的应用程序
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 结论
 
