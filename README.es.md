@@ -2,7 +2,7 @@ escultura
 
 # Escultura
 
-> [Escultura](https://skulpt.org)es una implementación de Python completamente en el navegador.
+> [Escultura](https://skulpt.org) is an entirely in-browser implementation of Python.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
