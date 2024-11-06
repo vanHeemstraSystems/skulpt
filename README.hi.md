@@ -2,7 +2,7 @@
 
 # मूर्ति
 
-> [मूर्ति](https://skulpt.org)यह Python का पूर्णतः इन-ब्राउज़र कार्यान्वयन है।
+> [Skulpt](https://skulpt.org)यह Python का पूर्णतः इन-ब्राउज़र कार्यान्वयन है।
 
 -   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
@@ -12,7 +12,7 @@
 
 मूलपाठ
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
