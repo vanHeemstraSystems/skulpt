@@ -1,16 +1,16 @@
 儲存庫名稱
 
-# Repository Name
+# 儲存庫名稱
 
-> 斯拉格萊恩
+> Skulpt 是 Python 的完全瀏覽器內實作。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
--   [文件](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **執行摘要**
 
-Text
+文字
 
 ## 100 - 簡介
 
