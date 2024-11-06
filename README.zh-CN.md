@@ -2,11 +2,11 @@
 
 # 雕塑
 
-> [雕塑](https://skulpt.org)是 Python 的完全浏览器内实现。
+> [Skulpt](https://skulpt.org)是 Python 的完全浏览器内实现。
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 
 **执行摘要**
 
