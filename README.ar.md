@@ -1,8 +1,8 @@
-اسم المستودع
+النحت
 
-# اسم المستودع
+# النحت
 
-> سلوجلاين
+> [النحت](https://skulpt.org)هو تطبيق كامل لـ Python داخل المتصفح.
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
@@ -24,6 +24,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
