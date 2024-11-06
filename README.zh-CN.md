@@ -1,6 +1,6 @@
-存储库名称
+雕塑
 
-# 存储库名称
+# 雕塑
 
 > Skulpt 是 Python 的完全浏览器内实现。
 
@@ -18,7 +18,7 @@ Text
 
 ## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
