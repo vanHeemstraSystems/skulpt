@@ -1,12 +1,12 @@
-儲存庫名稱
+雕塑
 
-# 儲存庫名稱
+# 雕塑
 
 > Skulpt 是 Python 的完全瀏覽器內實作。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文件](./DOCUMENTATION.md)
 
 **執行摘要**
 
