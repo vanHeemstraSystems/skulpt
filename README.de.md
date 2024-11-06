@@ -5,7 +5,7 @@ Skulptur
 > [Skulptur](https://skulpt.org)ist eine vollständig browserinterne Implementierung von Python.
 
 -   [Glossar](./GLOSSARY.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
 **Zusammenfassung**
